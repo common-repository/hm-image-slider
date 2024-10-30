@@ -1,0 +1,71 @@
+#hmis-metabox li{
+    border: 3px dashed #CCCCCC;
+    display: inline-block;
+    padding: 2px;
+    margin: 5px;
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+#hmis-metabox li.slide:after{
+    content: attr(data-content);
+    position: absolute;
+    z-index: 9999;
+    left: 25%;
+    top: 40%;
+    background: rgba(0, 0, 0, 0.65);
+    padding: 2px 5px;
+    color: #FFF;
+    width: 50%;
+    text-align: center;
+    opacity: 0;
+}
+
+#hmis-metabox li.slide:hover:after{
+    opacity: 1;
+}
+
+#hmis-metabox ul img{
+    width: 100px;
+    height: 100px;
+}
+
+#hmis-metabox li:last-child{
+    color: #d4d4d4;
+}
+
+#hmis-metabox li:last-child:hover{
+    color: #000;
+}
+/*lightboxme*/
+#hmis-lightbox-data{
+    display: none;
+    background: #FFF;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+    min-width: 400px;
+}
+
+#hmis-lightbox-data img{
+    cursor: pointer;
+}
+
+#hmis-lightbox-data img.not-selected{
+    opacity: .4;
+}
+
+#hmis-lightbox-data img.not-selected:hover{
+    opacity: 1;
+}
+
+#hmis-lightbox-data p{
+    padding: 10px;
+    margin: 10px;
+}
+
+#hmis-lightbox-data .text-field{
+    width: 100%;
+}

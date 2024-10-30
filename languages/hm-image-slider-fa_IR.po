@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hm-image-slider\n"
+"POT-Creation-Date: 2016-01-10 23:37+0330\n"
+"PO-Revision-Date: 2016-01-10 23:50+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: hm-image-slider.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/slider-functions.php:9
+msgid "No slider selected"
+msgstr "اسلایدری انتخاب نشده است."
+
+#: inc/slider-metabox-how-use.php:3
+msgid "Use this shortcode in post:"
+msgstr "از این کد کوتاه در پست های خود استفاده کنید:"
+
+#: inc/slider-metabox-how-use.php:9
+msgid "Or use below code in your functions.php"
+msgstr "یا از کد زیر در فایل functions.php استفاده کنید"
+
+#: inc/slider-metabox-setting.php:8
+msgid "Speed"
+msgstr "سرعت"
+
+#: inc/slider-metabox-setting.php:10
+msgid "MiliSec"
+msgstr "میلی ثانیه"
+
+#: inc/slider-metabox-setting.php:13
+msgid "Duration"
+msgstr "طول اسلاید"
+
+#: inc/slider-metabox-setting.php:15
+msgid "Time between slide changes - MiliSec"
+msgstr "زمان بین تغییر دو اسلاید - بر حسب میلی ثانیه"
+
+#: inc/slider-metabox-setting.php:18
+msgid "Autoplay"
+msgstr "شروع خودکار"
+
+#: inc/slider-metabox-setting.php:22
+msgid "Loop"
+msgstr "تکرار"
+
+#: inc/slider-metabox-setting.php:26
+msgid "Autosize"
+msgstr "اندازه خودکار"
+
+#: inc/slider-metabox-setting.php:30
+msgid "Resize"
+msgstr "تغییر اندازه"
+
+#: inc/slider-metabox-setting.php:34
+msgid "Stretch"
+msgstr "کشیدگی"
+
+#: inc/slider-metabox-setting.php:38
+msgid "Transition"
+msgstr "جابجایی"
+
+#: inc/slider-metabox-setting.php:40
+msgid "Fade"
+msgstr "محو شده"
+
+#: inc/slider-metabox-setting.php:41
+msgid "Right"
+msgstr "به راست"
+
+#: inc/slider-metabox-setting.php:42
+msgid "Left"
+msgstr "به چپ"
+
+#: inc/slider-metabox-setting.php:43
+msgid "Up"
+msgstr "به بالا"
+
+#: inc/slider-metabox-setting.php:44
+msgid "Down"
+msgstr "به پایین"
+
+#: inc/slider-metabox-setting.php:48
+msgid "Navigation type"
+msgstr "منوی ناوبری"
+
+#: inc/slider-metabox-setting.php:50
+msgid "List"
+msgstr "لیست"
+
+#: inc/slider-metabox-setting.php:51
+msgid "Controls"
+msgstr "کنترل"
+
+#: inc/slider-metabox-setting.php:52
+msgid "Both"
+msgstr "هردو"
+
+#: inc/slider-metabox-setting.php:53
+msgctxt "no slider navigation"
+msgid "None"
+msgstr "فاقد منوی ناوبری"
+
+#: inc/slider-metabox-setting.php:58
+msgid "Easing"
+msgstr "روند سرعت"
+
+#: inc/slider-metabox.php:12
+msgid "Caption"
+msgstr "توضیح"
+
+#: inc/slider-metabox.php:16
+msgid "Url"
+msgstr "آدرس اینترنتی"
+
+#: inc/slider-metabox.php:21 inc/slider-post-type.php:87
+msgid "Insert"
+msgstr "وارد کردن"
+
+#: inc/slider-metabox.php:22
+msgid "Cancel"
+msgstr "انصراف"
+
+#: inc/slider-metabox.php:28 inc/slider-post-type.php:86
+msgid "Edit"
+msgstr "ویرایش"
+
+#: inc/slider-post-type.php:8
+msgctxt "post type general name"
+msgid "Sliders"
+msgstr "اسلایدر"
+
+#: inc/slider-post-type.php:9
+msgctxt "post type singular name"
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: inc/slider-post-type.php:10
+msgctxt "admin menu"
+msgid "Sliders"
+msgstr "اسلایدرها"
+
+#: inc/slider-post-type.php:11
+msgctxt "add new on admin bar"
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: inc/slider-post-type.php:12
+msgctxt "slider"
+msgid "Add New"
+msgstr "اضافه کردن اسلایدر"
+
+#: inc/slider-post-type.php:13
+msgid "Add New Slider"
+msgstr "افزودن اسلایدر جدید"
+
+#: inc/slider-post-type.php:14
+msgid "New Slider"
+msgstr "اسلایدر جدید"
+
+#: inc/slider-post-type.php:15
+msgid "Edit Slider"
+msgstr "ویرایش اسلایدر"
+
+#: inc/slider-post-type.php:16
+msgid "View Slider"
+msgstr "نمایش اسلایدر"
+
+#: inc/slider-post-type.php:17
+msgid "All Sliders"
+msgstr "تمام اسلایدرها"
+
+#: inc/slider-post-type.php:18
+msgid "Search Sliders"
+msgstr "جستجوی اسلایدر"
+
+#: inc/slider-post-type.php:19
+msgid "Parent Sliders:"
+msgstr "اسلایدر والد"
+
+#: inc/slider-post-type.php:20
+msgid "No Sliders found."
+msgstr "اسلایدری یافت نشد."
+
+#: inc/slider-post-type.php:21
+msgid "No Sliders found in Trash."
+msgstr "هیچ اسلایدری در زباله دان یافت نشد."
+
+#: inc/slider-post-type.php:26
+msgid "Description."
+msgstr "توضیحات"
+
+#: inc/slider-post-type.php:46
+msgctxt "taxonomy general name"
+msgid "Subjects"
+msgstr "موضوعات"
+
+#: inc/slider-post-type.php:47
+msgctxt "taxonomy singular name"
+msgid "Subject"
+msgstr "موضوع"
+
+#: inc/slider-post-type.php:48
+msgid "Search Subjects"
+msgstr "جستجوی موضوع"
+
+#: inc/slider-post-type.php:49
+msgid "Popular Subjects"
+msgstr "موضوعات بیشتر استفاده شده"
+
+#: inc/slider-post-type.php:50
+msgid "All Subject"
+msgstr "تمام موضوعات"
+
+#: inc/slider-post-type.php:53
+msgid "Edit Subject"
+msgstr "ویرایش موضوع"
+
+#: inc/slider-post-type.php:54
+msgid "Update Subject"
+msgstr "بروزرسانی موضوع"
+
+#: inc/slider-post-type.php:55
+msgid "Add New Subject"
+msgstr "افزودن موضوع جدید"
+
+#: inc/slider-post-type.php:56
+msgid "New Subject Name"
+msgstr "عنوان موضوع جدید"
+
+#: inc/slider-post-type.php:57
+msgid "Separate Subjects with commas"
+msgstr "موضوعات را با کاما از هم جدا کنید."
+
+#: inc/slider-post-type.php:58
+msgid "Add or remove Subjects"
+msgstr "افزودن یا حذف موضوعات"
+
+#: inc/slider-post-type.php:59
+msgid "Choose from the most used Subjects"
+msgstr "از موضوعاتی که بیشتر استفاده شده اند استفاده کنید."
+
+#: inc/slider-post-type.php:60
+msgid "No Subjects found."
+msgstr "موضوعی یافت نشد"
+
+#: inc/slider-post-type.php:61
+msgid "Subjects"
+msgstr "موضوعات"
+
+#: inc/slider-post-type.php:85
+msgid "You select no image slide"
+msgstr "هیچ تصویری انتخاب نکرده اید."
+
+#: inc/slider-post-type.php:93
+msgid "Slides"
+msgstr "اسلایدها"
+
+#: inc/slider-post-type.php:99
+msgid "Slider settings"
+msgstr "تنظیمات اسلایدر"
+
+#: inc/slider-post-type.php:105
+msgid "Slider how use"
+msgstr "روش استفاده از اسلایدر"
+
+#: inc/slider-widget.php:12 inc/slider-widget.php:31 inc/slider-widget.php:63
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: inc/slider-widget.php:15
+msgid "Show slider from sliders"
+msgstr "نمایش اسلایدر از لیست اسلایدرها"
+
+#: inc/slider-widget.php:69
+msgid "Widget name"
+msgstr "عنوان ابزارک"
+
+#: inc/slider-widget.php:73 inc/slider-widget.php:75
+msgid "Select slider"
+msgstr "انتخاب اسلایدر"
+
+#. Plugin Name of the plugin/theme
+msgid "HM image slider"
+msgstr "اسلایدر تصاویر"
+
+#. Plugin URI of the plugin/theme
+msgid "http://example.com/plugins/hm-image-slider"
+msgstr "http://example.com/plugins/hm-image-slider"
+
+#. Description of the plugin/theme
+msgid "this is simple image slider"
+msgstr "این یک اسلایدر ساده برای تصاویر است."
+
+#. Author of the plugin/theme
+msgid "Hamed Moodi"
+msgstr "حامد مودی"
+
+#. Author URI of the plugin/theme
+msgid "http://example.com/about/hamedmoodi"
+msgstr "http://example.com/about/hamedmoodi"
